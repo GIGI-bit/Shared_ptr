@@ -1,0 +1,3 @@
+﻿  ConsoleApplicationCPP.cpp
+C:\Users\Sevgi\source\repos\ConsoleApplicationCPP\ConsoleApplicationCPP\ConsoleApplicationCPP.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ConsoleApplicationCPP.vcxproj -> C:\Users\Sevgi\source\repos\ConsoleApplicationCPP\x64\Debug\ConsoleApplicationCPP.exe
